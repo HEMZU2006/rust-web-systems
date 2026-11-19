@@ -1,0 +1,7 @@
+# Compiled Rust output
+target/
+**/target/
+
+# Local environment secrets
+.env
+**/.env
